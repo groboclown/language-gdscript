@@ -1,19 +1,19 @@
 {
-  "name": "language-python",
-  "version": "0.45.0",
+  "name": "language-gdscript",
+  "version": "0.0.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "description": "Python language support in Atom",
-  "homepage": "https://atom.github.io/language-python",
+  "description": "GDScript language support in Atom",
+  "homepage": "https://github.com/groboclown/language-gdscript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-python.git"
+    "url": "https://github.com/groboclown/language-gdscript.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-python/issues"
+    "url": "https://github.com/groboclown/language-gdscript/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
