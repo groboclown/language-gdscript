@@ -6,4 +6,4 @@
     'foldEndPattern': '^\\s*"""\\s*$'
     'commentStart': '# '
     'increaseIndentPattern': '^\\s*(class|func|elif|else|for|if|while)\\b.*:\\s*$'
-    'decreaseIndentPattern': '^\\s*(elif|else)\\b.*:'
+    'decreaseIndentPattern': '^\\s*(elif|else|static|func|const)\\b.*:'
