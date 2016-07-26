@@ -1,22 +1,8 @@
-'scopeName': 'source.python'
-'name': 'Python'
+'scopeName': 'source.gdscript'
+'name': 'GDScript'
 'fileTypes': [
-  'cpy'
-  'gyp'
-  'gypi'
-  'kv'
-  'py'
-  'pyw'
-  'rpy'
-  'SConscript'
-  'SConstruct'
-  'Sconstruct'
-  'sconstruct'
-  'Snakefile'
-  'tac'
-  'wsgi'
+  'gd'
 ]
-'firstLineMatch': '^#!/.*\\bpython[\\d\\.]*\\b'
 'patterns': [
   {
     'include': '#line_comments'
